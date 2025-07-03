@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          UNIVERSIDAD TECNOLÓGICA DE DURANGO -- CLICK PARA VISITAR EL SITIO
+          UNIVERSIDAD TECNOLÓGICA DE DURANGO -- CLICK PARA VISITAR EL SITIOo
         </a>
       </header>
     </div>
